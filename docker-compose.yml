@@ -7,6 +7,6 @@ services:
   app: 
     image:  kishorsujit/demo:latest
     ports: 
-      - 7000:8080
+      - 7000:8082
     networks: 
       - nw01
